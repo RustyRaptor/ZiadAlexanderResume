@@ -69,12 +69,23 @@
         "",
         ""
       ]
+    },
+    {
+      "institution": "Udemy",
+      "area": "NodeJS and ReactJS web development",
+      "studyType": "Certification of Completion",
+      "startDate": "2015-06-01",
+      "endDate": "2017-07-06",
+      "courses": [
+        "The Complete NodeJS Developer Course",
+        "The Complete ReactJS Developer Course"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "My blog library",
-      "publisher": "My blog team",
+      "name": "My blog's library",
+      "publisher": "Our Outstanding Blog Team",
       "releaseDate": "2016-2017",
       "website": "http://pcmrhub.com/blog",
       "summary": "In depth, informational articles about the PC tech world"
@@ -114,11 +125,11 @@
     },
     {
       "language": "Arabic",
-      "fluency": "secondary fluent"
+      "fluency": "Secondary Fluent"
     },
     {
       "language": "Japanese",
-      "fluency": "learning"
+      "fluency": "Learning"
     }
   ],
   "interests": [
@@ -136,8 +147,8 @@
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "",
+      "reference": ""
     }
   ]
 }
