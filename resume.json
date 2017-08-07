@@ -14,8 +14,7 @@
       "countryCode": "US",
       "region": "New Mexico"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "LinkedIn",
         "username": "ziadarafat",
         "url": "https://www.linkedin.com/in/ziadarafat"
@@ -33,7 +32,7 @@
       {
         "network": "Github",
         "username": "RustyRaptor",
-        "url" : "https://github.com/RustyRaptor"
+        "url": "https://github.com/RustyRaptor"
       },
       {
         "network": "Google",
@@ -42,23 +41,20 @@
       }
     ]
   },
-  "work": [
-    {
-      "company": "PCMR Hub",
-      "position": "Founder",
-      "website": "http://pcmrhub.com",
-      "startDate": "2013-12-01",
-      "endDate": "2017-07-06",
-      "summary": "I manage an online community of over 70,000 people and counting. Maintaining and designing our self hosted website and working with a team of awesome volunteers to grow the community and contribute to it.",
-      "highlights": [
-        "We host our own website. I maintain the CentOS VM server remotely and design the website. I also deploy a wordpress blog",
-        "I work with a team of awesome voluneers from all around the world to keep the PCMR Hub community a safe and engaging space for anyone.",
-        "I also manage a team of bloggers to bring weekly content to our blog. It's growing quickly"
-      ]
-    }
-  ],
-  "education": [
-    {
+  "work": [{
+    "company": "PCMR Hub",
+    "position": "Founder",
+    "website": "http://pcmrhub.com",
+    "startDate": "2013-12-01",
+    "endDate": "2017-07-06",
+    "summary": "I manage an online community of over 70,000 people and counting. Maintaining and designing our self hosted website and working with a team of awesome volunteers to grow the community and contribute to it.",
+    "highlights": [
+      "We host our own website. I maintain the CentOS VM server remotely and design the website. I also deploy a wordpress blog",
+      "I work with a team of awesome voluneers from all around the world to keep the PCMR Hub community a safe and engaging space for anyone.",
+      "I also manage a team of bloggers to bring weekly content to our blog. It's growing quickly"
+    ]
+  }],
+  "education": [{
       "institution": "AIUHS Online",
       "area": "STEM",
       "studyType": "Diploma",
@@ -82,44 +78,39 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "My blog's library",
-      "publisher": "Our Outstanding Blog Team",
-      "releaseDate": "2016-2017",
-      "website": "http://pcmrhub.com/blog",
-      "summary": "In depth, informational articles about the PC tech world"
-    }
-  ],
-  "skills": [
-    {
-      "name": "MEAN and LAMP Stack Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Python",
-        "MongoDB",
-        "Bootstrap",
-        "NodeJS",
-        "ReactJS",
-        "AngularJS",
-        "Apache",
-        "Nginx",
-        "Linux (CentOS, Ubuntu/Debian, Alpine)",
-        "Git",
-        "Wordpress",
-        "Express",
-        "Flask",
-        "Django",
-        "PHP",
-        "MySQL"
-      ]
-    }
-  ],
-  "languages": [
-    {
+  "publications": [{
+    "name": "My blog's library",
+    "publisher": "Our Outstanding Blog Team",
+    "releaseDate": "2016-2017",
+    "website": "http://pcmrhub.com/blog",
+    "summary": "In depth, informational articles about the PC tech world"
+  }],
+  "skills": [{
+    "name": "MEAN and LAMP Stack Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "MongoDB",
+      "Bootstrap",
+      "NodeJS",
+      "ReactJS",
+      "AngularJS",
+      "Apache",
+      "Nginx",
+      "Linux (CentOS, Ubuntu/Debian, Alpine)",
+      "Git",
+      "Wordpress",
+      "Express",
+      "Flask",
+      "Django",
+      "PHP",
+      "MySQL"
+    ]
+  }],
+  "languages": [{
       "language": "English",
       "fluency": "Native speaker"
     },
@@ -132,23 +123,19 @@
       "fluency": "Learning"
     }
   ],
-  "interests": [
-    {
-      "name": "PC Gaming",
-      "keywords": [
-        "Steam",
-        "Dota 2",
-        "ARK: Survival Evolved",
-        "XCOM",
-        "Civilization 5",
-        "Total War"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
-  ]
+  "interests": [{
+    "name": "PC Gaming",
+    "keywords": [
+      "Steam",
+      "Dota 2",
+      "ARK: Survival Evolved",
+      "XCOM",
+      "Civilization 5",
+      "Total War"
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }]
 }
